@@ -1,0 +1,3 @@
+# micrograd has zero hard external dependencies (pure Python standard library).
+# Optional testing & visualization dependencies:
+pytest>=7.0.0
